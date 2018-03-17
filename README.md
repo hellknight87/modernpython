@@ -1,2 +1,2 @@
 # modernpython
-Udemy Python Tutorials by Colt Steele
+Udemy Python Tutorials and practice as taught by Colt Steele
